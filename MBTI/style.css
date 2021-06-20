@@ -1,0 +1,8 @@
+article{
+    display: flex;
+    /* 세로 정렬 */
+    flex-direction: column;
+}
+/* .question{
+    display: none;
+} */
