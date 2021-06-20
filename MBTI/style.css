@@ -3,6 +3,6 @@ article{
     /* 세로 정렬 */
     flex-direction: column;
 }
-/* .question{
+.question{
     display: none;
-} */
+}
